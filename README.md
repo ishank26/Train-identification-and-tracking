@@ -5,5 +5,5 @@ Track and count number of trains exiting the video frames under variable illumin
 Usage- python track.py <filename>
 
 Sample output- [Sample](
-https://mega.nz/#!bRUyBKbC!s50GJ96dD9iI0S21hukgVvaX9M2BOrOQivkQbcubw5g
+https://drive.google.com/open?id=1sL0b_Vio7N-Y4BnOEir84-nI_OuAUBpr
 )
